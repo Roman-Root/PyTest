@@ -1,4 +1,4 @@
 class Links:
 
-    HOST = "https://www.ozon.ru/"
+    HOST = "https://zzz/"
     START_PAGE = f"{HOST}"
